@@ -1,7 +1,4 @@
 <html>
-<head>
-  <title>finkbea.github.io</title>
-</head>
 <body>
 <h1>Adicus' Website</h1>
 <p>I'm hosted with GitHub Pages.</p>
